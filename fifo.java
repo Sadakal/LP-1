@@ -83,4 +83,4 @@ class Test
 		System.out.println(pageFaults(pages, pages.length, capacity));
 	}
 }
-// This code is contributed by Gaurav Miglani
+
